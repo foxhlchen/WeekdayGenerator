@@ -2,7 +2,7 @@
 
 Generate Weekday (Mon-Fri) or Weekend (Sat-Sun) from now until specific year.
 
-# Usage
+## Usage
 
 Generate weekday:
 
